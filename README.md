@@ -15,7 +15,7 @@ Durante su jornada laboral tiene tiempo de hacer 30 quesos y colocarlos en la bo
 Por desgracia en la bodega tiene su vivienda Pérez, un ratón al que le encanta 
 el queso y, sólo necesita medio segundo para llevarse un queso a casa.
 
-
+https://github.com/dfleper/JavaThreadsExample/assets/124105822/9aa13064-2e27-4b6f-ba7c-41c12d9c00a7
 
 - #### [VSCode](https://code.visualstudio.com/)
 -----
